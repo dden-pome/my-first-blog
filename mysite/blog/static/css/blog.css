@@ -1,0 +1,17 @@
+h1, h2 {
+    font-family: 'Lobster';
+}
+
+.page-header {
+    background-color: #C25100;
+    margin-top 0;
+}
+
+.page-header h1, .page-header h1 a{
+    color: #ffffff;
+    font-size: 36pt;
+}
+
+body {
+    padding-left: 15px;
+}
